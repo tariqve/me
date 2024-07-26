@@ -1,9 +1,7 @@
 
 # Tarique's Professional Portfolio
 
-Welcome to my professional portfolio.
-
-I am currently pursuing a Bachelor's degree in International Business & Finance along with Bachelor of Science in Data Science & Application. I am passionate about using data and make informed decisions in business. My skills include data cleaning, visualization, machine learning, financial analysis, software development, UI/UX design, and IT project management. Click on the links below to view detailed projects.
+Welcome to my professional portfolio. I am currently pursuing a Bachelor's degree in International Business & Finance along with Bachelor of Science in Data Science & Application. I am passionate about using data and make informed decisions in business. My skills include data cleaning, visualization, machine learning, financial analysis, software development, UI/UX design, and IT project management. Click on the links below to view detailed projects.
 
 [LinkedIn](#) | [Telegram](#) 
 
@@ -21,16 +19,16 @@ I am currently pursuing a Bachelor's degree in International Business & Finance 
 
 ## Portfolios
 
-### [Business Data Analysis](github.com/tariqve/bda)
+### [Business Data Analysis](https://github.com/tariqve/bda)
 Showcasing my skills and projects in business data analysis, including dashboards, customer segmentation, and predictive modeling.
 
-### [Full Stack Development](github.com/tariqve/fsd)
+### [Full Stack Development](https://github.com/tariqve/fsd)
 Highlighting my experience in full-stack development, with projects ranging from e-commerce websites to web applications.
 
-### [UI/UX Design](github.com/tariqve/uiux)
+### [UI/UX Design]([https://github.com/tariqve/uiux)
 Demonstrating my expertise in UI/UX design, featuring mobile app interfaces, user-centered designs, and prototyping.
 
-### [Data Analysis](github.com/tariqve/da)
+### [Data Analysis](https://github.com/tariqve/da)
 Presenting my capabilities in data analysis, with projects involving financial performance analysis, market basket analysis, and more.
 
 ---
